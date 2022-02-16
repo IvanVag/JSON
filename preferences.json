@@ -1,6 +1,8 @@
-"Vrag gosudarstva"
-"Heroys"
-"Lagman"
-"Sommer"
-"Thailand"
+{
+	"Favorite movie":"Vrag gosudarstva",
+"favorite series": "Heroys",
+"favorite food": "Lagman",
+"favorite season": "Sommer",
+"party you would like to visit": "Thailand"
+}
 

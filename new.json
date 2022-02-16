@@ -1,4 +1,6 @@
-"Vagin"
-35
-1
-dosnt <= 1000$
+{
+	"Surname":"Vagin",
+"age": 34,
+ "Pets": 1,
+ "desired Salary": 1000$,
+}
